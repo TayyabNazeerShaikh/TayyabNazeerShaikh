@@ -6,7 +6,7 @@ software engineer
 
 * 🌍  I'm based in Maharastra, India
 * 🖥️  See my portfolio at [my website](https://portfolio-coral-one-16.vercel.app/)
-* ✉️  You can contact me at [tayyab.nazeer.shaikh@gmail.com](mailto:tayyab.nazeer.shaikh@gmail.com)
+* ✉️  You can contact me at 
 * 🧠  I'm learning REST APIs, C#, Java
 
 
