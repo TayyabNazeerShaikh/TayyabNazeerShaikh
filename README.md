@@ -7,7 +7,7 @@ software engineer
 * 🌍  I'm based in Maharastra, India
 * 🖥️  See my portfolio at [my website](https://portfolio-coral-one-16.vercel.app/)
 * ✉️  You can contact me at 
-* 🧠  I'm learning REST APIs, Python, Java
+* 🧠  I'm learning REST APIs, Python, Java and C#
 
 
 ### Skills
